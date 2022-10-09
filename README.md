@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DF7BF&width=435&lines=+++Welcome+to+my+GitHub+Profile++%3A);Hakuna+Matata)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DF7BF&width=435&lines=+++Welcome+to+my+GitHub+Profile++%3A);](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
