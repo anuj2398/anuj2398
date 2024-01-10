@@ -1,5 +1,5 @@
 <h4 align="center">Hi 👋! My name is Anuj and I'm a Java Backend Developer, from Guwahati.</h4>
-<!--
+
 ###
 
 <div align="center">
@@ -8,7 +8,6 @@
 </div>
 
 ###
--->
 <img align="right" height="150" src="https://media1.tenor.com/m/zZOt7alSzAMAAAAd/gojo-gojo-satoru.gif"  />
 
 ###
